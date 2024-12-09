@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  gap: 1vw;
+  flex-wrap: wrap;
+}
+
+img {
+  object-fit: contain;
+  max-width: 30vw;
+}
